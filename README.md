@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deerkiller8151
 - 👀 I’m interested in... playing video games and finding mods to help my gameplay.
 - 🌱 I’m currently learning... Python
-- 💞️ I’m looking to collaborate on... not sure yet.
+- 💞️ I’m looking to collaborate on... 
 - 📫 How to reach me... on here.
 
 <!---
